@@ -76,9 +76,6 @@
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
   </a>
-  <a href="https://www.dynatrace.com/" target="_blank" >
-    <img src="https://github.com/RishikeshOps/RishikeshOps/blob/2cc25b2346695d90429b3734f35e1705672369b0/Dynatrace_Logo_color_negative_vertical.png" height="80" />
-  </a>
 </p>
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I’m always excited to meet new minds!</b>Drop a “hi” anytime, <b> and I’ll be more than happy to connect.</b> 😊</em>
