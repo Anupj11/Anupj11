@@ -63,9 +63,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="80" />
-  </a>
   
   ### Monitoring
   
@@ -79,8 +76,6 @@
 </p>
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I’m always excited to meet new minds!</b>Drop a “hi” anytime, <b> and I’ll be more than happy to connect.</b> 😊</em>
-   
-## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/anup-jadhav/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:jadhavanup15@gmail.com) 💌 <br>
