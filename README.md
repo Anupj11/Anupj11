@@ -27,9 +27,7 @@
   <a href="https://cloud.google.com/" target="_blank" >
     <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"  height="70" />
   </a>
-  <a href="https://azure.microsoft.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"  height="75" />
-  </a>
+
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
