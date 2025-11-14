@@ -6,7 +6,9 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
+  <b>
     <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=22DD88&center=true&vCenter=true&width=435&lines=Hi+there+%2C+I'm+Anup+;Great+to+see+you+here+;Thanks+for+visiting+%3A)" alt="Typing SVG" />
+    </b>
   </a>
 </h3>
 
